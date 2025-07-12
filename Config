@@ -1,1 +1,5 @@
 config/MyBot.json
+{
+  "SteamLogin": "mo6bin",
+  "SteamPassword": "GAT24138199##"
+}
